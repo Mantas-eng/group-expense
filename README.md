@@ -1,11 +1,9 @@
-# group-extense 
-Ši programa yra reaktyvi (React + TypeScript) žiniatinklio aplikacija grupiniam išlaidų dalinimuisi, skirta padėti draugų grupėms ar šeimoms kaupti ir dalintis bendras išlaidas.
-
-
-<img src="./src/images/groups.png"/>
+ <img src="./src/images/groups.png"/>
  <img src="./src/images/members.png"/>
  <img src="./src/images/transactions.png">
 
+# group-extense 
+Ši programa yra reaktyvi (React + TypeScript) žiniatinklio aplikacija grupiniam išlaidų dalinimuisi, skirta padėti draugų grupėms ar šeimoms kaupti ir dalintis bendras išlaidas.
 
 ## Klonuokite repozitoriją
 
